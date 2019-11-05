@@ -8,4 +8,7 @@ sudo service mosquitto start
 
 // python3 and pip3 installed
 pip3 install paho-mqtt
+
+// start the application
+python3 mqtt.py
 ```
